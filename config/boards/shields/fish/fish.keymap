@@ -151,7 +151,7 @@
         layer_math {
             bindings = <
                         &kp N1      &kp N2      &kp N3      &trans              &kp JP_CARET   &kp JP_LT      &kp JP_EQUAL   &kp JP_RT      
-&kp JP_TILDE   &kp N0      &mt LGUI N4 &mt LALT N5 &mt LSHFT N6 &kp DOT     &kp MINUS   &mt RSHFT JP_PLUS　　 &mt RALT MINUS &mt RGUI JP_ASTRK &kp FSLH &kp JP_PRCNT
+&kp JP_TILDE   &kp N0      &mt LGUI N4 &mt LALT N5 &mt LSHFT N6 &kp DOT     &kp MINUS   &mt RSHFT JP_PLUS     &mt RALT MINUS &mt RGUI JP_ASTRK &kp FSLH &kp JP_PRCNT
             &kp JP_DLLR    &kp N7      &kp N8      &kp N9                        &kp JP_EXCL    &kp JP_QMARK   &kp JP_COLON   &kp JP_SEMI    
                                                 &none       &trans              &trans      &lt 6 BSPC 
             >;
